@@ -1,6 +1,3 @@
-function ADVR.POIEvents.onFound(firstVisit)
-    player.RealHealth = player.RealHealth+1
-end
 
 
 function ADVR.onLoad()

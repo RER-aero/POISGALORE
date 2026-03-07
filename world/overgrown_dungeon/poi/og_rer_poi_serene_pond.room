@@ -3,7 +3,7 @@
     "variant": "normal",
     "theme": "overgrown",
     "unlockReq": "",
-    "probability": 0.8765652179718018,
+    "probability": 1.0,
     "allowDuplicates": true,
     "preventAdditionalEnemySpawns": false,
     "preventRotations": false,

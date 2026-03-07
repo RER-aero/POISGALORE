@@ -1,0 +1,3960 @@
+{
+    "type": "poi",
+    "variant": "normal",
+    "theme": "forgotten",
+    "unlockReq": "",
+    "probability": 1,
+    "allowDuplicates": true,
+    "preventAdditionalEnemySpawns": false,
+    "preventRotations": false,
+    "roomFlags": [],
+    "customData": "",
+    "overrideVegetationInfos": [],
+    "overrideWallInfos": [],
+    "overrideCeilingInfo": [],
+    "baseTiles": [
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 4
+            },
+            "rot": 90,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": true,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "door_locked",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 2
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 2
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 2
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": true,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 12.0,
+            "doorType": "door",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        }
+    ],
+    "baseExtraObjects": [
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 0.4113740921020508,
+                "z": 3.5465097427368166
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 4.403013706207275,
+                "z": 3.5465097427368166
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 4.403013706207275,
+                "z": 0.6130120754241943
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "item_apple",
+            "pos": {
+                "x": 4.139566898345947,
+                "y": 0.9676854610443115,
+                "z": -0.09749221801757813
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "table",
+            "pos": {
+                "x": 4.090873718261719,
+                "y": -0.0018072128295898438,
+                "z": -0.06206321716308594
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.430130958557129,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.430130958557129,
+                "y": 2.332320213317871,
+                "z": 10.147208213806153
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.4726481437683109,
+                "y": 2.332320213317871,
+                "z": 10.147208213806153
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.4726481437683109,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.5315897464752199,
+                "y": 2.332320213317871,
+                "z": 10.147208213806153
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.5315897464752199,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.5741097927093506,
+                "y": 2.332320213317871,
+                "z": 10.147207260131836
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.5741097927093506,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.880572557449341,
+                "y": 9.387998580932618,
+                "z": 7.693271636962891
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.9493141174316408,
+                "y": 9.387998580932618,
+                "z": 11.364086151123047
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.9493141174316408,
+                "y": 9.387998580932618,
+                "z": 3.881190299987793
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.880572557449341,
+                "y": 9.387998580932618,
+                "z": 0.21037578582763673
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_ladder_long",
+            "pos": {
+                "x": -1.0836076736450196,
+                "y": -1.5961132049560547,
+                "z": 8.011675834655762
+            },
+            "rot": {
+                "x": 0.1499999463558197,
+                "y": 0.00896801333874464,
+                "z": 7.236997127532959
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_ladder_long",
+            "pos": {
+                "x": 9.352422714233399,
+                "y": -0.15373654663562776,
+                "z": 8.163631439208985
+            },
+            "rot": {
+                "x": 0.14999984204769135,
+                "y": 180.00897216796876,
+                "z": 7.236996173858643
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_ladder_long",
+            "pos": {
+                "x": 9.351494789123536,
+                "y": -0.1692708134651184,
+                "z": 2.229987144470215
+            },
+            "rot": {
+                "x": 0.14999984204769135,
+                "y": 180.00897216796876,
+                "z": 7.236996173858643
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.4194791316986084,
+                "z": 0.7165317535400391
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 0.7165317535400391
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 0.7165317535400391
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 9.552894592285157
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 6.537845611572266
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 3.6140098571777345
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 12.476728439331055
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 3.6140098571777345
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 3.6140098571777345
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 6.537845611572266
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 6.537845611572266
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 9.552894592285157
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 9.552894592285157
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 12.476728439331055
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 12.476728439331055
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 0.34258508682250979,
+                "z": 9.485391616821289
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 8.357746124267579,
+                "z": 9.485391616821289
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 4.403013229370117,
+                "z": 9.485391616821289
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670555114746094,
+                "y": 0.3425869941711426,
+                "z": 6.561556816101074
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670555114746094,
+                "y": 4.403013706207275,
+                "z": 6.561556816101074
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670555114746094,
+                "y": 8.357746124267579,
+                "z": 6.561556816101074
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 8.357745170593262,
+                "z": 3.546510696411133
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 0.4113740921020508,
+                "z": 0.6130120754241943
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 8.357745170593262,
+                "z": 0.622675895690918
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 4.403013706207275,
+                "z": 12.382867813110352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 0.34258508682250979,
+                "z": 12.382867813110352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 8.357746124267579,
+                "z": 12.382869720458985
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "item_apple",
+            "pos": {
+                "x": 4.139566898345947,
+                "y": 0.9676854610443115,
+                "z": -0.09749221801757813
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "table",
+            "pos": {
+                "x": 4.090873718261719,
+                "y": -0.0018072128295898438,
+                "z": -0.06206321716308594
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 7.142151832580566
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 6.743924140930176
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 4.449552536010742
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 4.051324844360352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 2.3178133964538576,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 2.0772438049316408
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 1.67901611328125
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 4.536506652832031
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 4.138278961181641
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 7.223454475402832
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 6.825226783752441
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.6014564037322998,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.558940887451172,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 10.15115737915039
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.457484245300293,
+                "y": 0.0,
+                "z": 9.752930641174317
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.430130958557129,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 6.430130958557129,
+                "y": 2.332320213317871,
+                "z": 10.147208213806153
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.4726481437683109,
+                "y": 2.332320213317871,
+                "z": 10.147208213806153
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 4.4726481437683109,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.5315897464752199,
+                "y": 2.332320213317871,
+                "z": 10.147208213806153
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 2.5315897464752199,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.5741097927093506,
+                "y": 2.332320213317871,
+                "z": 10.147207260131836
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full",
+            "pos": {
+                "x": 0.5741097927093506,
+                "y": 2.332320213317871,
+                "z": 9.748978614807129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.880572557449341,
+                "y": 9.387998580932618,
+                "z": 7.693271636962891
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.9493141174316408,
+                "y": 9.387998580932618,
+                "z": 11.364086151123047
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.9493141174316408,
+                "y": 9.387998580932618,
+                "z": 3.881190299987793
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 3.880572557449341,
+                "y": 9.387998580932618,
+                "z": 0.21037578582763673
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_ladder_long",
+            "pos": {
+                "x": -1.0836076736450196,
+                "y": -1.5961132049560547,
+                "z": 8.011675834655762
+            },
+            "rot": {
+                "x": 0.1499999314546585,
+                "y": 0.00896801333874464,
+                "z": 7.236997127532959
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_ladder_long",
+            "pos": {
+                "x": 9.352422714233399,
+                "y": -0.15373654663562776,
+                "z": 8.163631439208985
+            },
+            "rot": {
+                "x": 0.14999984204769135,
+                "y": 180.00897216796876,
+                "z": 7.236996173858643
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_ladder_long",
+            "pos": {
+                "x": 9.351494789123536,
+                "y": -0.1692708134651184,
+                "z": 2.229987144470215
+            },
+            "rot": {
+                "x": 0.14999984204769135,
+                "y": 180.00897216796876,
+                "z": 7.236996173858643
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.4194791316986084,
+                "z": 0.7165317535400391
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 0.7165317535400391
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 0.7165317535400391
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 9.552894592285157
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 6.537845611572266
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 3.6140098571777345
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 0.34258437156677248,
+                "z": 12.476728439331055
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 3.6140098571777345
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 3.6140098571777345
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 6.537845611572266
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 6.537845611572266
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 9.552894592285157
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 9.552894592285157
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 4.403013229370117,
+                "z": 12.476728439331055
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": 9.779375076293946,
+                "y": 8.357746124267579,
+                "z": 12.476728439331055
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 0.34258508682250979,
+                "z": 9.485391616821289
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 8.357746124267579,
+                "z": 9.485391616821289
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 4.403013229370117,
+                "z": 9.485391616821289
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670555114746094,
+                "y": 0.3425869941711426,
+                "z": 6.561556816101074
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670555114746094,
+                "y": 4.403013706207275,
+                "z": 6.561556816101074
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670555114746094,
+                "y": 8.357746124267579,
+                "z": 6.561556816101074
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 8.357745170593262,
+                "z": 3.546510696411133
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 4.403013706207275,
+                "z": 3.5465097427368166
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670559883117676,
+                "y": 8.357745170593262,
+                "z": 0.622675895690918
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 4.403013706207275,
+                "z": 12.382867813110352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 0.34258508682250979,
+                "z": 12.382867813110352
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "bookshelf_full_big",
+            "pos": {
+                "x": -1.7670550346374512,
+                "y": 8.357746124267579,
+                "z": 12.382869720458985
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        }
+    ],
+    "groups": []
+}

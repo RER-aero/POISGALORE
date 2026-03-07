@@ -3,7 +3,7 @@
     "variant": "normal",
     "theme": "mine",
     "unlockReq": "",
-    "probability": 0.506260335445404,
+    "probability": 1,
     "allowDuplicates": true,
     "preventAdditionalEnemySpawns": false,
     "preventRotations": false,

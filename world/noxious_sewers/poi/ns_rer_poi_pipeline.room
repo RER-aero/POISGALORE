@@ -3,7 +3,7 @@
     "variant": "normal",
     "theme": "noxious",
     "unlockReq": "",
-    "probability": 0.7306877970695496,
+    "probability": 0.8,
     "allowDuplicates": true,
     "preventAdditionalEnemySpawns": false,
     "preventRotations": false,
