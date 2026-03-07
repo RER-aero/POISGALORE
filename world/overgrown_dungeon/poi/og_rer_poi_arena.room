@@ -1,0 +1,1128 @@
+{
+    "type": "poi",
+    "variant": "normal",
+    "theme": "overgrown",
+    "unlockReq": "",
+    "probability": 1.0,
+    "allowDuplicates": true,
+    "preventAdditionalEnemySpawns": false,
+    "preventRotations": false,
+    "roomFlags": [],
+    "customData": "",
+    "overrideVegetationInfos": [],
+    "overrideWallInfos": [],
+    "overrideCeilingInfo": [],
+    "baseTiles": [
+        {
+            "possibleTiles": [
+                "empty",
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 9
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.25,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground",
+                "empty"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 10
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.25,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground",
+                "empty"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 11
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": true,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground",
+                "empty"
+            ],
+            "pos": {
+                "x": 5,
+                "y": 5
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 3,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 4,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 4,
+                "y": 4
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 4,
+                "y": 5
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 4,
+                "y": 6
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 4,
+                "y": 7
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 3,
+                "y": 7
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 7
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 7
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 7
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 6
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 5
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 4
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 3
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 6
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 4
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": -2.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "step",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 4
+            },
+            "rot": 90,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 5
+            },
+            "rot": 90,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": -2.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "step",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 5
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": -2.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 6
+            },
+            "rot": 180,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": -2.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "step",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 3,
+                "y": 5
+            },
+            "rot": 270,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": -2.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "step",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 3,
+                "y": 6
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 3,
+                "y": 4
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 8
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.25,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 2
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": -1.0,
+            "ceilOffset": 3.0,
+            "doorType": "default",
+            "ground": "step",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": false,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 3.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": true,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        }
+    ],
+    "baseExtraObjects": [
+        {
+            "identifier": "prop_bunk_bed",
+            "pos": {
+                "x": 0.2659437656402588,
+                "y": 0.4430752992630005,
+                "z": 20.487667083740236
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 180.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "trap_arrow_trap",
+            "pos": {
+                "x": 8.00120735168457,
+                "y": 4.1114301681518559,
+                "z": 39.51118469238281
+            },
+            "rot": {
+                "x": 90.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "wallplank",
+            "pos": {
+                "x": 7.548000335693359,
+                "y": 0.12631841003894807,
+                "z": 34.4369010925293
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 353.0099792480469
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "wallplank",
+            "pos": {
+                "x": 7.875674247741699,
+                "y": 0.04413004592061043,
+                "z": 34.43690490722656
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 173.00999450683595
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "wallplank",
+            "pos": {
+                "x": 7.454857349395752,
+                "y": -0.6333694458007813,
+                "z": 34.4369010925293
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 353.0099792480469
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "wallplank",
+            "pos": {
+                "x": 7.679290294647217,
+                "y": 0.7894611358642578,
+                "z": 34.43690490722656
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 173.00999450683595
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chair",
+            "pos": {
+                "x": 5.219736099243164,
+                "y": -0.9852131605148315,
+                "z": 14.75
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chair",
+            "pos": {
+                "x": 11.683409690856934,
+                "y": -0.9760733842849731,
+                "z": 14.75
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_chandelier",
+            "pos": {
+                "x": 7.831350326538086,
+                "y": 2.4606595039367677,
+                "z": 20.96875
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn",
+            "pos": {
+                "x": 12.446581840515137,
+                "y": -1.0,
+                "z": 16.304346084594728
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_slime_armored\"\n    ],\n    \"spawnOption\": 1\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_drop_door_4",
+            "pos": {
+                "x": 8.146431922912598,
+                "y": 1.8034919500350953,
+                "z": 5.0937042236328129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn",
+            "pos": {
+                "x": 3.83132266998291,
+                "y": -1.0,
+                "z": 24.790300369262697
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_slime_armored\"\n    ],\n    \"spawnOption\": 1\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn",
+            "pos": {
+                "x": 3.4326729774475099,
+                "y": -1.0,
+                "z": 16.250640869140626
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_slime_armored\"\n    ],\n    \"spawnOption\": 1\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_drop_door_4",
+            "pos": {
+                "x": 8.146431922912598,
+                "y": 1.8034919500350953,
+                "z": 5.0937042236328129
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn_o2",
+            "pos": {
+                "x": 3.477271318435669,
+                "y": -0.7499992847442627,
+                "z": 21.653676986694337
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 269.9999694824219,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_wight_crawling\"\n    ],\n    \"spawnOption\": 2\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn_o2",
+            "pos": {
+                "x": 10.686456680297852,
+                "y": -0.7499992847442627,
+                "z": 21.653676986694337
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 269.9999694824219,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_wight_crawling\"\n    ],\n    \"spawnOption\": 2\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn_mp_extra",
+            "pos": {
+                "x": 14.451179504394532,
+                "y": -0.49014806747436526,
+                "z": 24.87326431274414
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 269.9999694824219,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_slime_big\"\n    ],\n    \"spawnOption\": 4\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn_mp_extra",
+            "pos": {
+                "x": 7.6543426513671879,
+                "y": -0.75,
+                "z": 27.97016143798828
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 269.9999694824219,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_slime_big\"\n    ],\n    \"spawnOption\": 4\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn_mp_extra",
+            "pos": {
+                "x": 0.796963632106781,
+                "y": -0.49014806747436526,
+                "z": 24.87326431274414
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 269.9999694824219,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_slime_big\"\n    ],\n    \"spawnOption\": 4\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn",
+            "pos": {
+                "x": 11.471068382263184,
+                "y": -1.0,
+                "z": 23.983728408813478
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 269.9999694824219,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"enemy_og_slime_armored\"\n    ],\n    \"spawnOption\": 1\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "enemy_spawn",
+            "pos": {
+                "x": 7.789356231689453,
+                "y": -2.0,
+                "z": 19.996870040893556
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 269.9999694824219,
+                "z": 0.0
+            },
+            "customData": "{\n    \"possibleEnemies\": [\n        \"boss_og_deranged_adventurer\"\n    ],\n    \"spawnOption\": 1\n}",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        }
+    ],
+    "groups": []
+}
