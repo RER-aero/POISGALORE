@@ -1,5 +1,4 @@
 
-
 function ADVR.onLoad()
     poi.name = "Colosseum"
     poi.correspondingFloor = dungeonFloor.OVERGROWN_GATEHOUSE
@@ -9,3 +8,6 @@ function ADVR.onLoad()
     poi.insightOnFind = 10
 end
 
+function ADVR.POIEvents.onFound(firstVisit)
+
+end
